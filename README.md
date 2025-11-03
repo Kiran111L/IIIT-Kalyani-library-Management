@@ -1,4 +1,4 @@
-IIIT-Kalyani Library Management
+---------------->           IIIT-Kalyani Library Management          <-------------------
 
 A Flask-based Library Management System developed for IIIT Kalyani, designed to manage books, members, and employees efficiently.
 The system provides features like book issue/return tracking, authentication, and real-time status dashboards, using MySQL as the backend database and HTML/CSS for the frontend interface.
